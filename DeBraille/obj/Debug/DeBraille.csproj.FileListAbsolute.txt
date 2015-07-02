@@ -1,0 +1,12 @@
+D:\Quang\MVCPropertyListingNew\Presentation\PL.Web\Images\Drawing Braille Characters with GDI\C#\DeBraille\bin\Debug\DeBraille.exe.config
+D:\Quang\MVCPropertyListingNew\Presentation\PL.Web\Images\Drawing Braille Characters with GDI\C#\DeBraille\bin\Debug\DeBraille.exe
+D:\Quang\MVCPropertyListingNew\Presentation\PL.Web\Images\Drawing Braille Characters with GDI\C#\DeBraille\bin\Debug\DeBraille.pdb
+D:\Quang\MVCPropertyListingNew\Presentation\PL.Web\Images\Drawing Braille Characters with GDI\C#\DeBraille\obj\Debug\DeBraille.csprojResolveAssemblyReference.cache
+D:\Quang\MVCPropertyListingNew\Presentation\PL.Web\Images\Drawing Braille Characters with GDI\C#\DeBraille\obj\Debug\DeBraille.Form1.resources
+D:\Quang\MVCPropertyListingNew\Presentation\PL.Web\Images\Drawing Braille Characters with GDI\C#\DeBraille\obj\Debug\DeBraille.Properties.Resources.resources
+D:\Quang\MVCPropertyListingNew\Presentation\PL.Web\Images\Drawing Braille Characters with GDI\C#\DeBraille\obj\Debug\DeBraille.csproj.GenerateResource.Cache
+D:\Quang\MVCPropertyListingNew\Presentation\PL.Web\Images\Drawing Braille Characters with GDI\C#\DeBraille\obj\Debug\DeBraille.exe
+D:\Quang\MVCPropertyListingNew\Presentation\PL.Web\Images\Drawing Braille Characters with GDI\C#\DeBraille\obj\Debug\DeBraille.pdb
+C:\Users\DuyThong\Documents\GitHub\Brainle-Detect\DeBraille\bin\Debug\DeBraille.exe.config
+C:\Users\DuyThong\Documents\GitHub\Brainle-Detect\DeBraille\obj\Debug\DeBraille.exe
+C:\Users\DuyThong\Documents\GitHub\Brainle-Detect\DeBraille\obj\Debug\DeBraille.pdb

@@ -1,0 +1,15 @@
+C:\Users\Paul.Paul-PC\Desktop\BrailleCsharp2010\Braille\Braille\bin\Debug\Braille.exe
+C:\Users\Paul.Paul-PC\Desktop\BrailleCsharp2010\Braille\Braille\bin\Debug\Braille.pdb
+C:\Users\Paul.Paul-PC\Desktop\BrailleCsharp2010\Braille\Braille\obj\x86\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\Paul.Paul-PC\Desktop\BrailleCsharp2010\Braille\Braille\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Paul.Paul-PC\Desktop\BrailleCsharp2010\Braille\Braille\obj\x86\Debug\Braille.csproj.GenerateResource.Cache
+C:\Users\Paul.Paul-PC\Desktop\BrailleCsharp2010\Braille\Braille\obj\x86\Debug\Braille.exe
+C:\Users\Paul.Paul-PC\Desktop\BrailleCsharp2010\Braille\Braille\obj\x86\Debug\Braille.pdb
+D:\Quang\MVCPropertyListingNew\Presentation\PL.Web\Images\Drawing Braille Characters with GDI\C#\Braille\obj\x86\Debug\Braille.exe
+D:\Quang\MVCPropertyListingNew\Presentation\PL.Web\Images\Drawing Braille Characters with GDI\C#\Braille\obj\x86\Debug\Braille.pdb
+D:\Quang\MVCPropertyListingNew\Presentation\PL.Web\Images\Drawing Braille Characters with GDI\C#\Braille\bin\Debug\Braille.exe
+D:\Quang\MVCPropertyListingNew\Presentation\PL.Web\Images\Drawing Braille Characters with GDI\C#\Braille\bin\Debug\Braille.pdb
+D:\Quang\MVCPropertyListingNew\Presentation\PL.Web\Images\Drawing Braille Characters with GDI\C#\Braille\obj\x86\Debug\Braille.csprojResolveAssemblyReference.cache
+D:\Quang\MVCPropertyListingNew\Presentation\PL.Web\Images\Drawing Braille Characters with GDI\C#\Braille\obj\x86\Debug\WindowsFormsApplication2.Form1.resources
+D:\Quang\MVCPropertyListingNew\Presentation\PL.Web\Images\Drawing Braille Characters with GDI\C#\Braille\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Quang\MVCPropertyListingNew\Presentation\PL.Web\Images\Drawing Braille Characters with GDI\C#\Braille\obj\x86\Debug\Braille.csproj.GenerateResource.Cache
